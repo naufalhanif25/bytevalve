@@ -11,10 +11,10 @@
 ## Getting Started
 
 1. Download the executable file from the following link: 
-<a href="https://github.com/naufalhanif25/bytevalve.git/refs/heads/main/bytevalve" download>Download bytevalve</a>
+<a href="blob:https://github.com/128f4520-ace4-487f-9e9b-588718d732f0" download>Download bytevalve</a>
 
 2. Download `install.sh` from the following link:
-<a href="https://github.com/naufalhanif25/bytevalve.git/refs/heads/main/install.sh" download>Download install.sh</a>
+<a href="blob:https://github.com/b6c5ab4e-8bd5-4eb4-81cf-090031a9792d" download>Download install.sh</a>
 
 3. Change `install.sh` permission to executable
     ```shell
